@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "alps_alpine_RK09Y11L0001")(type "KiCad")(uri "${KIPRJMOD}/symbols/alps_alpine_RK09Y11L0001.kicad_sym")(options "")(descr ""))
+)
